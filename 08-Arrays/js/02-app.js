@@ -11,3 +11,5 @@ console.log(numeros[3]);
 // Entre los corchetes se agrega la posicion de el arreglo
 
 console.log(numeros[4][0]);
+
+//En JavaScript los valores inician desde la posicion cero 
